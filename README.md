@@ -48,6 +48,7 @@ This project aims to improve railway reservation systems by using Reinforcement 
 
 🚧 Under Development
 
-## Team
+## Team Members
+(Shresth Pathak 24BIT0270)
 
 BCSE355L Cloud Architecture Design Project
